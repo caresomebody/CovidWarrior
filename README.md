@@ -8,3 +8,10 @@ Mutia Marcha Fatika (G64180085) sebagai Game Artist
 
 Muhammad Hafizhan (G64180100) sebagai Game Designer
 
+# Rules
+- Mengumpulkan vaksin yang tersebar di sepanjang jalan dan menghindari virus.
+- Masker untuk menambah kekebalan akan virus (menambah health dalam game)
+- Pemain bisa melompati virus
+- Apabila terkena virus, maka pemain akan karantina di rumah sakit dan memulai dari awal
+- Garis finish adalah tempat yang akan diberikan vaksin 
+
