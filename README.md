@@ -15,3 +15,17 @@ Muhammad Hafizhan (G64180100) sebagai Game Designer
 - Apabila terkena virus, maka pemain akan karantina di rumah sakit dan memulai dari awal
 - Garis finish adalah tempat yang akan diberikan vaksin 
 
+# Goals
+- Mengumpulkan vaksin sebanyak - banyaknya disetiap level
+- Memberikan vaksin yang didapat berdasarkan jumlah yang dibutuhkan disetiap tempat
+- Membuat seluruh tempat tervaksinasi secara keseluruhan
+
+## Technology Used
+
+	Pada pembuatan game ini kami menggunakan Unity sebagai Game Engine dan bahasa pemrograman C#.
+
+| Nama Software        | Fungsi      |
+| -------------------- | ----------- |
+| *Unity 2019.4.13f1*  | Game Engine |
+| *Visual Studio Code* | Code Editor |
+| *Figma | Design asset |
