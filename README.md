@@ -28,4 +28,4 @@ Muhammad Hafizhan (G64180100) sebagai Game Designer
 | -------------------- | ----------- |
 | *Unity 2019.4.13f1*  | Game Engine |
 | *Visual Studio Code* | Code Editor |
-| *Figma | Design asset |
+| *Figma* | Design asset |
