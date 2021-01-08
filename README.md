@@ -20,6 +20,17 @@ Muhammad Hafizhan (G64180100) sebagai Game Designer
 - Memberikan vaksin yang didapat berdasarkan jumlah yang dibutuhkan disetiap tempat
 - Membuat seluruh tempat tervaksinasi secara keseluruhan
 
+# Preview Game
+![](Preview%20Game/1.png)
+![](Preview%20Game/2.png)
+![](Preview%20Game/3.png)
+![](Preview%20Game/4.png)
+![](Preview%20Game/5.png)
+![](Preview%20Game/6.png)
+![](Preview%20Game/8.png)
+![](Preview%20Game/9.png)
+![](Preview%20Game/10.png)
+
 ## Technology Used
 
 	Pada pembuatan game ini kami menggunakan Unity sebagai Game Engine dan bahasa pemrograman C#.
